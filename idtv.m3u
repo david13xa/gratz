@@ -1,41 +1,7 @@
 #EXTM3U
-#EXTINF:-1,TV ONE
-http://op-group1-swiftservehd-1.dens.tv/h/h40/02.m3u8
-#EXTINF:-1,ANTV
-http://op-group1-swiftservehd-1.dens.tv/s/s07/02.m3u8
-#EXTINF:-1,SCTV
-http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
-#EXTINF:-1,INDOSIAR
-http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
-#EXTINF:-1,TRANS TV
-https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
-#EXTINF:-1,TRANS 7
-https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
-#EXTINF:-1,NET.
-http://op-group1-swiftservesd-1.dens.tv/h/h06/02.m3u8
-#EXTINF:-1,RTV
-http://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8
-#EXTINF:-1,RCTI
-http://allcutv.rctiplus.id/rcti2023.m3u8
-#EXTINF:-1,GTV
-http://allcutv.rctiplus.id/gtv2023.m3u8
-#EXTINF:-1,MNC TV
-http://allcutv.rctiplus.id/mnctv2023.m3u8
-#EXTINF:-1,INEWS
-http://allcutv.rctiplus.id/inews2023.m3u8
-#EXTINF:-1,KOMPAS TV
-http://op-group1-swiftservehd-1.dens.tv/s/s104/02.m3u8
-#EXTINF:-1,METRO TV
-http://op-group1-swiftservehd-1.dens.tv/h/h12/02.m3u8
-#EXTINF:-1,JTV
-https://63b2dc7196c38.streamlock.net:1937/ch2/myStream/chunklist.m3u8
-#EXTINF:-1,BTV
-http://op-group1-swiftservehd-1.dens.tv/h/h129/S4/mnf.m3u8
-#EXTINF:-1,TVRI
-http://op-group1-swiftservesd-1.dens.tv/s/s11/02.m3u8
-#EXTINF:-1,TVRI SPORT
-http://op-group1-swiftservesd-1.dens.tv/s/s107/02.m3u8
-#EXTINF:-1,NTV
-http://op-group1-swiftservehd-1.dens.tv/h/h37/02.m3u8
-#EXTINF:-1,JAKTV
-http://op-group1-swiftservesd-1.dens.tv/s/s123/S4/mnf.m3u8
+#EXTINF:-1,SORRY NO CHANNEL
+https://4gtv.mytvsuper.xyz/beesport/WWE_Live_TV
+#EXTINF:-1,IF YOU NEED THE CHANNEL
+http://171.244.62.178/jptv2/get.php?id=4O3P2VsYGiDOYYHUKuF_1Q==
+#EXTINF:-1,DM ME :D
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8?c
