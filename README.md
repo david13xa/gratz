@@ -1,12 +1,11 @@
-this just for education and fun,
-remember i got this from any source,
-if you not happy, want me to delete or renew links please msg me,
-im not responsible for any law breaking or piracy in,
-it's all back to yours.
+THIS JUST FOR EDUCATION AND FUN,
+REMEMBER I GOT THIS FROM ANY SOURCE,
+IF YOU NOT HAPPY, WANT ME TO DELETE OR RENEW LINKS PLEASE MSG ME,
+IM NOT RESPONSIBLE FOR ANY LAW BREAKING OR PIRACY IN,
+IT'S ALL BACK TO YOURS.
 
-
-ini hanya untuk belajar dan bersenang senang,
-ingatlah saya dapat link dari berbagai sumber,
-jika anda tidak senang marah, melanggar aturan, hukum atau ingin apapun tolong kirim saya pesan atau email agar dapat saya koreksi ataupun saya hapus,
-saya tidak bertanggung jawab atas segalanya,
-semuanya kembali kepada diri masing-masing.
+Ini Hanya untuk Belajar & Bersenang Senang,
+Ingatlah Saya Dapat Link Dari Berbagai Sumber,
+Jika Anda Tidak Senang, Marah, Melanggar Aturan, Hukum Atau Ingin Apapun Tolong Kirim Saya Pesan atau E-Mail Agar Dapat Saya Koreksi ataupun Saya Hapus,
+Saya Tidak Bertanggung Jawab Atas Segalanya,
+Semuanya Kembali Kepada Diri Masing-masing.
