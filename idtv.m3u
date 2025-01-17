@@ -64,12 +64,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h07/02.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h14/02.m3u8
 #EXTINF:-1,FIGHT SPORTS
 http://op-group1-swiftservehd-1.dens.tv/h/h05/02.m3u8
-#EXTINF:-1,BEIN SPORTS 1
-http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
-#EXTINF:-1,BEIN SPORTS 2
+#EXTINF:-1,BEIN SPORTS
 http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
-#EXTINF:-1,TEN SPORTS
-http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 #EXTINF:-1,TSN 1
 http://212.102.60.231/TSN_1/index.m3u8
 #EXTINF:-1,TSN 2
