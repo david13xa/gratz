@@ -4,8 +4,8 @@ IF YOU NOT HAPPY, WANT ME TO DELETE OR RENEW LINKS PLEASE MSG ME,
 IM NOT RESPONSIBLE FOR ANY LAW BREAKING OR PIRACY IN,
 IT'S ALL BACK TO YOURS.
 
-Ini Hanya untuk Belajar & Bersenang Senang,
-Ingatlah Saya Dapat Link Dari Berbagai Sumber,
-Jika Anda Tidak Senang, Marah, Melanggar Aturan, Hukum Atau Ingin Apapun Tolong Kirim Saya Pesan atau E-Mail Agar Dapat Saya Koreksi ataupun Saya Hapus,
-Saya Tidak Bertanggung Jawab Atas Segalanya,
-Semuanya Kembali Kepada Diri Masing-masing.
+ini hanya untuk belajar & bersenang senang,
+ingatlah saya dapat link dari berbagai sumber,
+jika anda tidak senang, marah, melanggar aturan, hukum atau ingin apapun tolong kirim saya pesan atau e-mail agar dapat saya koreksi ataupun saya hapus,
+saya tidak bertanggung jawab atas segalanya,
+semuanya kembali kepada diri masing-masing.
